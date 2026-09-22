@@ -1,0 +1,6 @@
+service_type,completed_appointments,avg_service_duration_minutes,p90_service_duration_minutes,avg_wait_time_minutes,scheduled_duration_target_minutes,duration_variance_minutes
+Minor Procedure,1468,41.67506811989101,57.0,6.806539509536785,30,11.68
+Chronic Care,2692,30.76151560178306,42.0,6.7518573551263,25,5.76
+Primary Care,8289,19.80842079864881,27.0,6.894076486910363,15,4.81
+Follow-up,5905,14.286028789161728,20.0,6.898899237933954,12,2.29
+Vaccination,3536,9.938914027149321,14.0,6.893382352941177,10,-0.06

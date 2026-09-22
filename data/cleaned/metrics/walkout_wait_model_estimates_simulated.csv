@@ -1,0 +1,6 @@
+wait_range,wait_midpoint_minutes,estimated_walkout_probability_pct,increment_vs_prior_band_pp
+0–14,7,4.3,0.0
+15–29,22,9.0,4.7
+30–44,37,17.1,8.1
+45–59,52,26.6,9.5
+60+,67,33.7,7.1

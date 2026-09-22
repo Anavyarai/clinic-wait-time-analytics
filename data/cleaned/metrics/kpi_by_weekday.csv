@@ -1,0 +1,7 @@
+weekday_number,weekday,scheduled_appointments,attended_appointments,completed_appointments,cancelled_appointments,no_show_appointments,walked_out_appointments,completion_rate_pct,cancellation_rate_pct,no_show_rate_pct,walkout_rate_pct,avg_wait_time_minutes,median_wait_time_minutes,p90_wait_time_minutes,pct_waiting_over_15_minutes,pct_waiting_over_30_minutes,avg_late_arrival_minutes,pct_arriving_late,avg_service_duration_minutes,avg_satisfaction_score,complaint_rate_pct
+0,Monday,5073,4489,4228,259,325,261,83.34,5.11,6.75,5.81,7.5,0.0,27.0,18.57,8.14,2.44,34.33,19.65,4.53,5.65
+1,Tuesday,4276,3919,3753,150,207,166,87.77,3.51,5.02,4.24,5.56,0.0,20.0,14.1,4.8,2.57,34.7,19.58,4.61,5.25
+2,Wednesday,4231,3942,3776,131,158,166,89.25,3.1,3.85,4.21,5.92,0.0,20.0,14.41,4.79,2.62,35.19,19.55,4.59,5.27
+3,Thursday,4287,3965,3792,147,175,173,88.45,3.43,4.23,4.36,5.38,0.0,19.0,12.68,4.09,2.5,34.78,19.35,4.61,4.61
+4,Friday,4278,3939,3736,135,204,203,87.33,3.16,4.92,5.15,6.31,0.0,22.0,15.87,5.73,2.69,35.62,19.68,4.59,5.35
+5,Saturday,3066,2796,2605,117,153,191,84.96,3.82,5.19,6.83,12.08,3.0,35.0,27.56,13.01,2.55,34.62,19.35,4.39,7.72

@@ -1,0 +1,5 @@
+recommendation,target,scenario_assumption,estimated_wait_or_duration_improvement_minutes,method_note
+Shift one Central City provider from 13:00 to 15:00–16:00,Central City weekday afternoon,Reallocate one existing provider; no net headcount,13.7,Observed peak-to-low-demand-period wait difference used as a directional estimate
+Start West End's second provider at 08:00,West End opening hour,Move existing 09:00 start one hour earlier,8.0,Observed 08:00-to-low-demand-period wait difference used as a directional estimate
+Extend Minor Procedure booking target by 10 minutes,Minor Procedure,No added staffing; reduce downstream queue pressure,11.7,Average overrun minutes versus stated booking target
+Target reminders for Monday and pre-09:00 appointments,High-risk no-show slots,Assume a 15–25% reduction in no-shows in targeted slots,,Model estimate: releases capacity; wait effect requires operational trial

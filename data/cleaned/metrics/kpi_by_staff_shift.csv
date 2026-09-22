@@ -1,0 +1,6 @@
+staff_shift,scheduled_appointments,attended_appointments,completed_appointments,cancelled_appointments,no_show_appointments,walked_out_appointments,completion_rate_pct,cancellation_rate_pct,no_show_rate_pct,walkout_rate_pct,avg_wait_time_minutes,median_wait_time_minutes,p90_wait_time_minutes,pct_waiting_over_15_minutes,pct_waiting_over_30_minutes,avg_late_arrival_minutes,pct_arriving_late,avg_service_duration_minutes,avg_satisfaction_score,complaint_rate_pct
+08:00–13:00,1876,1876,1876,0,0,0,100.0,0.0,0.0,0.0,10.92,0.0,33.0,24.95,11.73,2.59,35.07,19.16,4.42,7.14
+08:00–17:00,14276,14276,14276,0,0,0,100.0,0.0,0.0,0.0,5.39,0.0,19.0,13.13,4.8,2.52,34.51,19.29,4.61,4.98
+09:00–13:00,729,729,729,0,0,0,100.0,0.0,0.0,0.0,15.08,8.0,39.0,34.29,16.32,2.58,35.25,19.83,4.34,9.19
+09:00–17:00,5009,5009,5009,0,0,0,100.0,0.0,0.0,0.0,8.39,0.0,26.0,21.12,7.77,2.67,36.02,20.35,4.52,5.97
+Not assigned,3321,1160,0,939,1222,1160,0.0,28.27,51.3,100.0,,,,,,2.5,33.79,,,

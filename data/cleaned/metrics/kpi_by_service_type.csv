@@ -1,0 +1,6 @@
+service_type,scheduled_appointments,attended_appointments,completed_appointments,cancelled_appointments,no_show_appointments,walked_out_appointments,completion_rate_pct,cancellation_rate_pct,no_show_rate_pct,walkout_rate_pct,avg_wait_time_minutes,median_wait_time_minutes,p90_wait_time_minutes,pct_waiting_over_15_minutes,pct_waiting_over_30_minutes,avg_late_arrival_minutes,pct_arriving_late,avg_service_duration_minutes,avg_satisfaction_score,complaint_rate_pct
+Chronic Care,3070,2830,2692,96,144,138,87.69,3.13,4.84,4.88,6.75,0.0,22.0,16.2,5.91,2.63,35.94,30.76,4.57,5.76
+Follow-up,6790,6215,5905,259,316,310,86.97,3.81,4.84,4.99,6.9,0.0,24.0,16.55,6.47,2.59,35.03,14.29,4.56,5.45
+Minor Procedure,1720,1559,1468,62,99,91,85.35,3.6,5.97,5.84,6.81,0.0,23.0,17.64,6.47,2.58,35.02,41.68,4.55,5.52
+Primary Care,9573,8729,8289,363,481,440,86.59,3.79,5.22,5.04,6.89,0.0,23.0,16.59,6.66,2.54,34.53,19.81,4.56,5.34
+Vaccination,4058,3717,3536,159,182,181,87.14,3.92,4.67,4.87,6.89,0.0,24.0,17.05,6.36,2.51,34.54,9.94,4.57,5.94

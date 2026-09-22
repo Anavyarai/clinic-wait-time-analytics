@@ -1,0 +1,2 @@
+scope,scheduled_appointments,attended_appointments,completed_appointments,cancelled_appointments,no_show_appointments,walked_out_appointments,completion_rate_pct,cancellation_rate_pct,no_show_rate_pct,walkout_rate_pct,avg_wait_time_minutes,median_wait_time_minutes,p90_wait_time_minutes,pct_waiting_over_15_minutes,pct_waiting_over_30_minutes,avg_late_arrival_minutes,pct_arriving_late,avg_service_duration_minutes,avg_satisfaction_score,complaint_rate_pct
+All clinics,25211,23050,21890,939,1222,1160,86.83,3.72,5.03,5.03,6.87,0.0,23.0,16.67,6.46,2.56,34.87,19.54,4.56,5.53
